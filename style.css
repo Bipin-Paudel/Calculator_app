@@ -25,6 +25,7 @@ body{
 }
 
 .row input{
+    background-color: white;
     font-size: 19px;
     width: 231px;
     padding-left: 9px;
